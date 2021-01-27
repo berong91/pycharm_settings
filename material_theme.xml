@@ -1,7 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="accentColor" value="ffd866" />
-    <option name="selectedTheme" value="MONOKAI" />
+    <option name="allowDataCollection" value="true" />
+    <option name="accentColor" value="42a5f5" />
+    <option name="selectedTheme" value="ARC_DARK" />
     <option name="userId" value="6cf77d97:17742065e85:-8000" />
     <option name="version" value="5.5.0" />
   </component>
