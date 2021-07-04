@@ -1,4 +1,7 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+  </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivatePythonConsoleToolWindow">
@@ -22,4 +25,13 @@
     <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="SwitchHeaderSource" />
+  <action id="Terminal.CopySelectedText">
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="Terminal.Paste">
+    <keyboard-shortcut first-keystroke="shift insert" />
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
+  <action id="Terminal.SwitchFocusToEditor" />
 </keymap>
