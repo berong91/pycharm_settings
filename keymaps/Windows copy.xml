@@ -22,15 +22,6 @@
     <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="SwitchHeaderSource" />
-  <action id="Terminal.CopySelectedText">
-    <keyboard-shortcut first-keystroke="ctrl insert" />
-    <keyboard-shortcut first-keystroke="shift ctrl c" />
-  </action>
-  <action id="Terminal.Paste">
-    <keyboard-shortcut first-keystroke="shift insert" />
-    <keyboard-shortcut first-keystroke="shift ctrl v" />
-  </action>
-  <action id="Terminal.SwitchFocusToEditor" />
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
