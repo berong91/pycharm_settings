@@ -1,0 +1,29 @@
+<application>
+  <component name="BigDataIdeGlobalConnectionSettings">
+    <option name="connections">
+      <list>
+        <ExtendedConnectionData>
+          <option name="extended">
+            <map>
+              <entry key="rootPath" value="rO0ABXQAR0Q6XE9uZURyaXZlXEJDSVRcQlRlY2hcQ09NUC04MDg1IC0gQXJ0aWZpY2lhbCBJbnRlbGxpZ2VuY2VcQXNzaWdubWVudCAy" />
+            </map>
+          </option>
+          <option name="fqn" value="com.jetbrains.bigdatatools.rfs.settings.local.RfsLocalConnectionData" />
+          <option name="groupId" value="RfsLocalConnectionGroup" />
+          <option name="innerId" value="Local@RfsLocalConnectionGroup@-8359619055353976033" />
+          <option name="name" value="Local" />
+          <option name="pluginId" value="com.intellij.bigdatatools" />
+        </ExtendedConnectionData>
+      </list>
+    </option>
+  </component>
+  <component name="RfsDownloadedStorageManager">
+    <option name="fileList">
+      <list>
+        <option value="D_____Srb___UNSW_NB15_BALANCED_TRAIN_csv_0.data.csv\UNSW-NB15-BALANCED-TRAIN.column.csv(downloaded)" />
+        <option value="D_____Srb___UNSW_NB15_BALANCED_TRAIN_csv_1.data.csv\UNSW-NB15-BALANCED-TRAIN.column.csv(downloaded)" />
+      </list>
+    </option>
+    <option name="mainDirPath" value="C:\Users\duyph\AppData\Local\Temp\HDFS-downloaded" />
+  </component>
+</application>
