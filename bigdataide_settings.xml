@@ -33,6 +33,7 @@
     <option name="fileList">
       <list>
         <option value="D:/OneDrive/BCIT/BTech/COMP-8085 - Artificial Intelligence/Assignment 3/dataset/dataset.csv" />
+        <option value="D:/OneDrive/BCIT/BTech/COMP-8085 - Artificial Intelligence/Assignment 3/dataset/Symptom_severity.csv" />
         <option value="_______w_ySymptom_severity_csv_0.data.csv\Symptom_severity.column.csv(downloaded)" />
         <option value="___UGK_3dataset_csv_0.data.csv\dataset.column.csv(downloaded)" />
         <option value="_tk_7gCAGsymptom_precaution_csv_0.data.csv\symptom_precaution.column.csv(downloaded)" />
@@ -41,7 +42,6 @@
         <option value="_tk_7gCAGsymptom_precaution_csv_0.data.csv\symptom_precaution.csv(downloaded)" />
         <option value="K_OK_sci_symptom_Description_csv_0.data.csv\symptom_Description.csv(downloaded)" />
         <option value="___UGK_3dataset_csv_0.data.csv\dataset.csv(downloaded)" />
-        <option value="_______w_ySymptom_severity_csv_0.data.csv\Symptom_severity.csv(downloaded)" />
       </list>
     </option>
     <option name="mainDirPath" value="C:\Users\duyph\AppData\Local\Temp\HDFS-downloaded" />
