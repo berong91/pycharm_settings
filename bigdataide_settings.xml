@@ -14,6 +14,18 @@
           <option name="name" value="Local" />
           <option name="pluginId" value="com.intellij.bigdatatools" />
         </ExtendedConnectionData>
+        <ExtendedConnectionData>
+          <option name="extended">
+            <map>
+              <entry key="rootPath" value="rO0ABXQAW0M6XFVzZXJzXGR1eXBoXE9uZURyaXZlXEJDSVRcQlRlY2hcQ09NUC04MDg1IC0gQXJ0aWZpY2lhbCBJbnRlbGxpZ2VuY2VcQXNzaWdubWVudCAzXGRhdGFzZXQ=" />
+            </map>
+          </option>
+          <option name="fqn" value="com.jetbrains.bigdatatools.rfs.settings.local.RfsLocalConnectionData" />
+          <option name="groupId" value="RfsLocalConnectionGroup" />
+          <option name="innerId" value="Local@RfsLocalConnectionGroup@-1445250377385947925" />
+          <option name="name" value="Local" />
+          <option name="pluginId" value="com.intellij.bigdatatools" />
+        </ExtendedConnectionData>
       </list>
     </option>
   </component>
