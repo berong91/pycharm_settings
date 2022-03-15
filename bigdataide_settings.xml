@@ -11,19 +11,19 @@
           <option name="fqn" value="com.jetbrains.bigdatatools.rfs.settings.local.RfsLocalConnectionData" />
           <option name="groupId" value="RfsLocalConnectionGroup" />
           <option name="innerId" value="Local@RfsLocalConnectionGroup@-8359619055353976033" />
-          <option name="name" value="Local" />
+          <option name="name" value="ass2" />
           <option name="pluginId" value="com.intellij.bigdatatools" />
         </ExtendedConnectionData>
         <ExtendedConnectionData>
           <option name="extended">
             <map>
-              <entry key="rootPath" value="rO0ABXQAW0M6XFVzZXJzXGR1eXBoXE9uZURyaXZlXEJDSVRcQlRlY2hcQ09NUC04MDg1IC0gQXJ0aWZpY2lhbCBJbnRlbGxpZ2VuY2VcQXNzaWdubWVudCAzXGRhdGFzZXQ=" />
+              <entry key="rootPath" value="rO0ABXQAT0Q6XE9uZURyaXZlXEJDSVRcQlRlY2hcQ09NUC04MDg1IC0gQXJ0aWZpY2lhbCBJbnRlbGxpZ2VuY2VcQXNzaWdubWVudCAzXGRhdGFzZXQ=" />
             </map>
           </option>
           <option name="fqn" value="com.jetbrains.bigdatatools.rfs.settings.local.RfsLocalConnectionData" />
           <option name="groupId" value="RfsLocalConnectionGroup" />
-          <option name="innerId" value="Local@RfsLocalConnectionGroup@-1445250377385947925" />
-          <option name="name" value="Local" />
+          <option name="innerId" value="Local@RfsLocalConnectionGroup@-9147392827204054469" />
+          <option name="name" value="ass3" />
           <option name="pluginId" value="com.intellij.bigdatatools" />
         </ExtendedConnectionData>
       </list>
@@ -32,16 +32,16 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
-        <option value="$USER_HOME$/OneDrive/BCIT/BTech/COMP-8085 - Artificial Intelligence/Assignment 3/dataset/symptom_Description.csv" />
-        <option value="$USER_HOME$/OneDrive/BCIT/BTech/COMP-8085 - Artificial Intelligence/Assignment 3/dataset/symptom_precaution.csv" />
-        <option value="$USER_HOME$/OneDrive/BCIT/BTech/COMP-8085 - Artificial Intelligence/Assignment 3/dataset/Symptom_severity.csv" />
-        <option value="$USER_HOME$/OneDrive/BCIT/BTech/COMP-8085 - Artificial Intelligence/Assignment 3/dataset/dataset.csv" />
-        <option value="_8_____dataset_csv_0.data.csv\dataset.column.csv(downloaded)" />
-        <option value="_8_____dataset_csv_0.data.csv\dataset.csv(downloaded)" />
-        <option value="1F__gUSymptom_severity_csv_0.data.csv\Symptom_severity.column.csv(downloaded)" />
-        <option value="___HRR__symptom_Description_csv_0.data.csv\symptom_Description.column.csv(downloaded)" />
-        <option value="__bS_8____D_symptom_precaution_csv_0.data.csv\symptom_precaution.column.csv(downloaded)" />
-        <option value="___HRR__symptom_Description_csv_0.data.csv\symptom_Description.csv(downloaded)" />
+        <option value="K_OK_sci_symptom_Description_csv_0.data.csv\symptom_Description.column.csv(downloaded)" />
+        <option value="___UGK_3dataset_csv_0.data.csv\dataset.column.csv(downloaded)" />
+        <option value="_tk_7gCAGsymptom_precaution_csv_0.data.csv\symptom_precaution.column.csv(downloaded)" />
+        <option value="_______w_ySymptom_severity_csv_0.data.csv\Symptom_severity.column.csv(downloaded)" />
+        <option value="___UGK_3dataset_csv_0.data.csv\dataset.csv(downloaded)" />
+        <option value="K_OK_sci_symptom_Description_csv_0.data.csv\symptom_Description.csv(downloaded)" />
+        <option value="_tk_7gCAGsymptom_precaution_csv_0.data.csv\symptom_precaution.csv(downloaded)" />
+        <option value="zJmUH_README_md.md\README.md" />
+        <option value="D:/OneDrive/BCIT/BTech/COMP-8085 - Artificial Intelligence/Assignment 3/dataset/Symptom_severity.csv" />
+        <option value="D:/OneDrive/BCIT/BTech/COMP-8085 - Artificial Intelligence/Assignment 3/dataset/dataset.csv" />
       </list>
     </option>
     <option name="mainDirPath" value="C:\Users\duyph\AppData\Local\Temp\HDFS-downloaded" />
