@@ -32,6 +32,9 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
+        <option value="$USER_HOME$/OneDrive/BCIT/BTech/COMP-8085 - Artificial Intelligence/Assignment 3/dataset/symptom_Description.csv" />
+        <option value="$USER_HOME$/OneDrive/BCIT/BTech/COMP-8085 - Artificial Intelligence/Assignment 3/dataset/symptom_precaution.csv" />
+        <option value="$USER_HOME$/OneDrive/BCIT/BTech/COMP-8085 - Artificial Intelligence/Assignment 3/dataset/Symptom_severity.csv" />
         <option value="$USER_HOME$/OneDrive/BCIT/BTech/COMP-8085 - Artificial Intelligence/Assignment 3/dataset/dataset.csv" />
         <option value="_8_____dataset_csv_0.data.csv\dataset.column.csv(downloaded)" />
         <option value="_8_____dataset_csv_0.data.csv\dataset.csv(downloaded)" />
@@ -39,9 +42,6 @@
         <option value="___HRR__symptom_Description_csv_0.data.csv\symptom_Description.column.csv(downloaded)" />
         <option value="__bS_8____D_symptom_precaution_csv_0.data.csv\symptom_precaution.column.csv(downloaded)" />
         <option value="___HRR__symptom_Description_csv_0.data.csv\symptom_Description.csv(downloaded)" />
-        <option value="__bS_8____D_symptom_precaution_csv_0.data.csv\symptom_precaution.csv(downloaded)" />
-        <option value="1F__gUSymptom_severity_csv_0.data.csv\Symptom_severity.csv(downloaded)" />
-        <option value="D:/OneDrive/BCIT/BTech/COMP-8085 - Artificial Intelligence/Assignment 2/UNSW-NB15-BALANCED-TRAIN.csv" />
       </list>
     </option>
     <option name="mainDirPath" value="C:\Users\duyph\AppData\Local\Temp\HDFS-downloaded" />
