@@ -26,22 +26,34 @@
           <option name="name" value="ass3" />
           <option name="pluginId" value="com.intellij.bigdatatools" />
         </ExtendedConnectionData>
+        <ExtendedConnectionData>
+          <option name="extended">
+            <map>
+              <entry key="rootPath" value="rO0ABXQAeEQ6XE9uZURyaXZlXEJDSVRcQlRlY2hcQ09NUC04MDMxIC0gV2lyZWxlc3MgYW5kIE1vYmlsZSBBcHBsaWNhdGlvbnMgRGV2ZWxvcG1lbnQgMlxQcm9qZWN0XEVtb3Rpb25SZWNUcmFpbmluZy1tYXN0ZXJcZGF0YQ==" />
+            </map>
+          </option>
+          <option name="fqn" value="com.jetbrains.bigdatatools.rfs.settings.local.RfsLocalConnectionData" />
+          <option name="groupId" value="RfsLocalConnectionGroup" />
+          <option name="innerId" value="Local@RfsLocalConnectionGroup@-4274912949222987874" />
+          <option name="name" value="keras-fer2013" />
+          <option name="pluginId" value="com.intellij.bigdatatools" />
+        </ExtendedConnectionData>
       </list>
     </option>
   </component>
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
-        <option value="K_OK_sci_symptom_Description_csv_0.data.csv\symptom_Description.column.csv(downloaded)" />
-        <option value="___UGK_3dataset_csv_0.data.csv\dataset.column.csv(downloaded)" />
-        <option value="_tk_7gCAGsymptom_precaution_csv_0.data.csv\symptom_precaution.column.csv(downloaded)" />
-        <option value="_______w_ySymptom_severity_csv_0.data.csv\Symptom_severity.column.csv(downloaded)" />
-        <option value="___UGK_3dataset_csv_0.data.csv\dataset.csv(downloaded)" />
-        <option value="K_OK_sci_symptom_Description_csv_0.data.csv\symptom_Description.csv(downloaded)" />
-        <option value="_tk_7gCAGsymptom_precaution_csv_0.data.csv\symptom_precaution.csv(downloaded)" />
-        <option value="zJmUH_README_md.md\README.md" />
-        <option value="D:/OneDrive/BCIT/BTech/COMP-8085 - Artificial Intelligence/Assignment 3/dataset/Symptom_severity.csv" />
-        <option value="D:/OneDrive/BCIT/BTech/COMP-8085 - Artificial Intelligence/Assignment 3/dataset/dataset.csv" />
+        <option value="D:/OneDrive/BCIT/BTech/COMP-8031 - Wireless and Mobile Applications Development 2/Project/EmotionRecTraining-master/data/example_submission.csv" />
+        <option value="_d8__lC8_fer2013_csv_0.data.csv\fer2013.column.csv(downloaded)" />
+        <option value="q_4_v6ptrain_csv_0.data.csv\train.column.csv(downloaded)" />
+        <option value="Vt________rtest_csv_0.data.csv\test.column.csv(downloaded)" />
+        <option value="_A_ON__icml_face_data_csv_0.data.csv\icml_face_data.column.csv(downloaded)" />
+        <option value="_A_ON__icml_face_data_csv_0.data.csv\icml_face_data.csv(downloaded)" />
+        <option value="xs____NbJexample_submission_csv_0.data.csv\example_submission.column.csv(downloaded)" />
+        <option value="$USER_HOME$/AppData/Local/Temp/HDFS-downloaded/_d8__lC8_fer2013_csv_0.data.csv/fer2013.column.csv(downloaded)" />
+        <option value="q_4_v6ptrain_csv_0.data.csv\train.csv(downloaded)" />
+        <option value="Vt________rtest_csv_0.data.csv\test.csv(downloaded)" />
       </list>
     </option>
     <option name="mainDirPath" value="C:\Users\duyph\AppData\Local\Temp\HDFS-downloaded" />
